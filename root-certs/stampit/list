@@ -1,0 +1,12 @@
+/repository/StampITGlobalRootCA.cacert.crt
+/repository/StampITGlobalQualifiedCA.cacert.crt
+/repository/StampIT_Primary_Root_CA_base64.crt
+/repository/StampIT_Qualified_CA_base64.crt
+/repository/stampit-global-tsa.crt
+/repository/StampIT_Global_OCSP.crt
+/repository/StampITGlobalAESCA.cacert.crt
+/repository/StampIT_Domestic_Root_CA_base64.crt
+/repository/StampIT_Domestic_CA_NGL_base64.crt
+http://stampit.org/repository/StampIT_Domestic_TSA_base64.cer
+http://stampit.org/repository/stampit_time_stamping.crt
+http://stampit.org/repository/ocsp.stampit.org.crt
