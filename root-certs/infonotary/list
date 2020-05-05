@@ -1,0 +1,13 @@
+files/InfoNotary_Qualified_eIDAS.p12
+files/INotaryCertChain.p12
+files/qualified-root-ca.der
+files/qualified-legal-ca.der
+files/qualified-natural-ca.der
+files/qualified-domain-ca.der
+files/qualified-timestamp-ca.der
+files/qualified-natural-aes-ca.cer
+files/qualified-legal-aes-ca.cer
+files/in-csp-root.cer
+files/qs-ca.cer
+files/cqs-ca.cer
+files/pqs-ca.cer
